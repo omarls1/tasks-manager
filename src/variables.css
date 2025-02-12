@@ -1,0 +1,48 @@
+/* start variables */
+:root {
+  /* Indigo Shades */
+  --indigo-0: #edf2ff;
+  --indigo-1: #dbe4ff;
+  --indigo-2: #bac8ff;
+  --indigo-3: #91a7ff;
+  --indigo-4: #748ffc;
+  --indigo-5: #5c7cfa;
+  --indigo-6: #4c6ef5;
+  --indigo-7: #4263eb;
+  --indigo-8: #3b5bdb;
+  --indigo-9: #364fc7;
+
+  /* Violet Shades */
+  --violet-0: #f5e6ff;
+  --violet-1: #e6ccff;
+  --violet-2: #d0a9ff;
+  --violet-3: #b280ff;
+  --violet-4: #9c4aff;
+  --violet-5: #7f33e0;
+  --violet-6: #6618b3;
+  --violet-7: #540f80;
+  --violet-8: #430e66;
+  --violet-9: #3a0c55;
+
+  /* Gray Shades */
+  --gray-0: #f8f9fa;
+  --gray-1: #f1f3f5;
+  --gray-2: #e9ecef;
+  --gray-3: #dee2e6;
+  --gray-4: #ced4da;
+  --gray-5: #adb5bd;
+  --gray-6: #868e96;
+  --gray-7: #495057;
+  --gray-8: #343a40;
+  --gray-9: #212529;
+}
+
+:root {
+  --mainColor: var(--indigo-5);
+  --grayColor: var(--gray-9);
+  --accentColor: var(--teal-4);
+  --sectionPadding: 60px;
+  --mainFont: "Readex Pro", sans-serif;
+  --secondFont: "cairo", sans-serif;
+}
+/* end variables */
